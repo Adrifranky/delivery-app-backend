@@ -1,8 +1,8 @@
 module.exports = {
   dialect: 'postgres',
-  host: '127.0.0.1',
+  host: 'database-1.cmqsljoveepx.us-east-1.rds.amazonaws.com',
   username: 'postgres',
-  password: 'admin',
+  password: 'admin123',
   database: 'delivery_app_db',
   operatorAliases: false,
   define: {
